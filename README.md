@@ -1,2 +1,1 @@
 # eliskakurfirtova.github.io
-CV
