@@ -42,7 +42,7 @@ a {
 
 .sidebar {
   padding: 20px;
-  /*border: 1px solid #aaa;*/
+  min-width: 150px;
   color: #ffffff;
   font-size: 25px;
 }
